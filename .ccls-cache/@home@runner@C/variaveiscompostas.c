@@ -16,3 +16,4 @@ int main(){
     printf("\n Vetor altura[2] = %f\n",altura[2]);
     return 0;
 }
+ 
